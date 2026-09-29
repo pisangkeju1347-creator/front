@@ -1,0 +1,282 @@
+{
+  "hash": "1f432df1",
+  "configHash": "0ddb9417",
+  "lockfileHash": "3ae75cf6",
+  "browserHash": "6712eb36",
+  "optimized": {
+    "@base-ui/react/button": {
+      "src": "../../@base-ui/react/button/index.mjs",
+      "file": "@base-ui_react_button.js",
+      "fileHash": "8dac3637",
+      "needsInterop": false
+    },
+    "@base-ui/react/checkbox": {
+      "src": "../../@base-ui/react/checkbox/index.mjs",
+      "file": "@base-ui_react_checkbox.js",
+      "fileHash": "137470e3",
+      "needsInterop": false
+    },
+    "@base-ui/react/dialog": {
+      "src": "../../@base-ui/react/dialog/index.mjs",
+      "file": "@base-ui_react_dialog.js",
+      "fileHash": "753c720f",
+      "needsInterop": false
+    },
+    "@base-ui/react/input": {
+      "src": "../../@base-ui/react/input/index.mjs",
+      "file": "@base-ui_react_input.js",
+      "fileHash": "cd6c9cda",
+      "needsInterop": false
+    },
+    "@base-ui/react/menu": {
+      "src": "../../@base-ui/react/menu/index.mjs",
+      "file": "@base-ui_react_menu.js",
+      "fileHash": "d461c2a0",
+      "needsInterop": false
+    },
+    "@base-ui/react/merge-props": {
+      "src": "../../@base-ui/react/merge-props/index.mjs",
+      "file": "@base-ui_react_merge-props.js",
+      "fileHash": "54f40211",
+      "needsInterop": false
+    },
+    "@base-ui/react/popover": {
+      "src": "../../@base-ui/react/popover/index.mjs",
+      "file": "@base-ui_react_popover.js",
+      "fileHash": "d018aad8",
+      "needsInterop": false
+    },
+    "@base-ui/react/select": {
+      "src": "../../@base-ui/react/select/index.mjs",
+      "file": "@base-ui_react_select.js",
+      "fileHash": "3d0614bd",
+      "needsInterop": false
+    },
+    "@base-ui/react/tabs": {
+      "src": "../../@base-ui/react/tabs/index.mjs",
+      "file": "@base-ui_react_tabs.js",
+      "fileHash": "33e11e1a",
+      "needsInterop": false
+    },
+    "@base-ui/react/use-render": {
+      "src": "../../@base-ui/react/use-render/index.mjs",
+      "file": "@base-ui_react_use-render.js",
+      "fileHash": "ae9410d2",
+      "needsInterop": false
+    },
+    "@tanstack/react-query": {
+      "src": "../../@tanstack/react-query/build/modern/index.js",
+      "file": "@tanstack_react-query.js",
+      "fileHash": "899268d8",
+      "needsInterop": false
+    },
+    "class-variance-authority": {
+      "src": "../../class-variance-authority/dist/index.mjs",
+      "file": "class-variance-authority.js",
+      "fileHash": "5c795ff8",
+      "needsInterop": false
+    },
+    "clsx": {
+      "src": "../../clsx/dist/clsx.mjs",
+      "file": "clsx.js",
+      "fileHash": "8eb6be3f",
+      "needsInterop": false
+    },
+    "date-fns": {
+      "src": "../../date-fns/index.js",
+      "file": "date-fns.js",
+      "fileHash": "216f499c",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.mjs",
+      "file": "lucide-react.js",
+      "fileHash": "bd285422",
+      "needsInterop": false
+    },
+    "motion/react": {
+      "src": "../../motion/dist/es/react.mjs",
+      "file": "motion_react.js",
+      "fileHash": "00a58c28",
+      "needsInterop": false
+    },
+    "next-themes": {
+      "src": "../../next-themes/dist/index.mjs",
+      "file": "next-themes.js",
+      "fileHash": "69f8f25c",
+      "needsInterop": false
+    },
+    "react-day-picker": {
+      "src": "../../react-day-picker/dist/esm/index.js",
+      "file": "react-day-picker.js",
+      "fileHash": "a0ebde14",
+      "needsInterop": false
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "867242d5",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "4038b0d9",
+      "needsInterop": true
+    },
+    "react-is": {
+      "src": "../../react-is/index.js",
+      "file": "react-is.js",
+      "fileHash": "18d35086",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "ba2369ec",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "d01f98e2",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "78f56cf8",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "66ea8b07",
+      "needsInterop": true
+    },
+    "recharts": {
+      "src": "../../recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "5666ac9c",
+      "needsInterop": false
+    },
+    "sonner": {
+      "src": "../../sonner/dist/index.mjs",
+      "file": "sonner.js",
+      "fileHash": "f2469975",
+      "needsInterop": false
+    },
+    "tailwind-merge": {
+      "src": "../../tailwind-merge/dist/bundle-mjs.mjs",
+      "file": "tailwind-merge.js",
+      "fileHash": "58dec0c4",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "CSPContext-2kkkbtPN": {
+      "file": "CSPContext-2kkkbtPN.js",
+      "isDynamicEntry": false
+    },
+    "DirectionContext-O998dM5m": {
+      "file": "DirectionContext-O998dM5m.js",
+      "isDynamicEntry": false
+    },
+    "LabelableContext-eEnEuTbp": {
+      "file": "LabelableContext-eEnEuTbp.js",
+      "isDynamicEntry": false
+    },
+    "Separator-Cw4HdUXQ": {
+      "file": "Separator-Cw4HdUXQ.js",
+      "isDynamicEntry": false
+    },
+    "createBaseUIEventDetails-BNfSv2gm": {
+      "file": "createBaseUIEventDetails-BNfSv2gm.js",
+      "isDynamicEntry": false
+    },
+    "date-fns-BCivh63j": {
+      "file": "date-fns-BCivh63j.js",
+      "isDynamicEntry": false
+    },
+    "getCssDimensions-BWmXQylD": {
+      "file": "getCssDimensions-BWmXQylD.js",
+      "isDynamicEntry": false
+    },
+    "inertValue-J_gNalGy": {
+      "file": "inertValue-J_gNalGy.js",
+      "isDynamicEntry": false
+    },
+    "isElementDisabled-T2-7pWM4": {
+      "file": "isElementDisabled-T2-7pWM4.js",
+      "isDynamicEntry": false
+    },
+    "merge-props-B1zstas5": {
+      "file": "merge-props-B1zstas5.js",
+      "isDynamicEntry": false
+    },
+    "rolldown-runtime-B-1-B7_t": {
+      "file": "rolldown-runtime-B-1-B7_t.js",
+      "isDynamicEntry": false
+    },
+    "shadowDom-BbNDe3Dh": {
+      "file": "shadowDom-BbNDe3Dh.js",
+      "isDynamicEntry": false
+    },
+    "shim-DO6Qh8OF": {
+      "file": "shim-DO6Qh8OF.js",
+      "isDynamicEntry": false
+    },
+    "store-DgHEBjVg": {
+      "file": "store-DgHEBjVg.js",
+      "isDynamicEntry": false
+    },
+    "useButton-DFSPkxH_": {
+      "file": "useButton-DFSPkxH_.js",
+      "isDynamicEntry": false
+    },
+    "useCompositeItem-o3_Mt2wQ": {
+      "file": "useCompositeItem-o3_Mt2wQ.js",
+      "isDynamicEntry": false
+    },
+    "useControlled-CXMaCmX-": {
+      "file": "useControlled-CXMaCmX-.js",
+      "isDynamicEntry": false
+    },
+    "useIsoLayoutEffect-DrOR77jl": {
+      "file": "useIsoLayoutEffect-DrOR77jl.js",
+      "isDynamicEntry": false
+    },
+    "useLabelableId-_zFazLnK": {
+      "file": "useLabelableId-_zFazLnK.js",
+      "isDynamicEntry": false
+    },
+    "useOpenInteractionType-fml9RCjU": {
+      "file": "useOpenInteractionType-fml9RCjU.js",
+      "isDynamicEntry": false
+    },
+    "usePopupViewport-9tQdVQKu": {
+      "file": "usePopupViewport-9tQdVQKu.js",
+      "isDynamicEntry": false
+    },
+    "usePreviousValue-D_tVHlXk": {
+      "file": "usePreviousValue-D_tVHlXk.js",
+      "isDynamicEntry": false
+    },
+    "useRenderElement-BiX6Dyza": {
+      "file": "useRenderElement-BiX6Dyza.js",
+      "isDynamicEntry": false
+    },
+    "useTransitionStatus-CDr8WmsC": {
+      "file": "useTransitionStatus-CDr8WmsC.js",
+      "isDynamicEntry": false
+    },
+    "useValueChanged-Bmjcvk0Q": {
+      "file": "useValueChanged-Bmjcvk0Q.js",
+      "isDynamicEntry": false
+    },
+    "with-selector-j4a9dY5e": {
+      "file": "with-selector-j4a9dY5e.js",
+      "isDynamicEntry": false
+    }
+  }
+}
